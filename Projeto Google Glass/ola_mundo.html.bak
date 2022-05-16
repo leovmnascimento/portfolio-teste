@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang = "pt-br">
+<head>
+	<meta  charset = "UTF-8"/>
+	<title> Minha namorada é linda </title>
+	<style>
+		h1{
+			font-family: Arial;
+			font-size: 30pt;
+			color: blue;
+			text-shadow: 2px 2px 2px black;
+		}
+	</style>
+</head>
+<body>
+	<h1> Olá, gatinha! </h1>
+	<h2> Estou fazendo minha primeira página! </h2>
+	<h1> Você é maravilhosa </h1>
+</body>
+</html>
