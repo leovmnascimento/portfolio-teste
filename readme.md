@@ -10,6 +10,10 @@ Estou construindo o meu portfólio com projetos da Alura e do Curso em vídeo.
 - Tabela de classificação
 - Site do Google glass
 
+Elementos interativos e animados (botões, caixas de seleção, ícones dinâmicos...)
+- Animação de ícones de mídias sociais
+- Animação de um check button
+
 Possuo ideias de projetos que poderão ser desenvolvidos:
 
 - Plataforma de ensino de matemática
